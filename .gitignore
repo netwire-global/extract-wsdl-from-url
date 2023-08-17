@@ -1,0 +1,5 @@
+node_modules
+wsdls
+pom.xml.txt
+*-lock.*
+*.lock
